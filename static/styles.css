@@ -281,11 +281,11 @@ h3 {
     .nav::before {
         content: '';
         position: absolute;
-        width: 1000px;
+        width: 325px;
         border-radius: 10px;
         margin-top: 375px;
         height: 50px;
-        left: -200px;
+        left: -70px;
         background: rgba(0, 0, 0, 0.3);
         z-index: -1;
     }
